@@ -1,0 +1,4 @@
+#the directory where you keep the files
+path=C:/Users/Christopher/Desktop/code/Workspace/Brennan File Util/res/
+#if you want to keep the original files or not
+keep_raw=false
